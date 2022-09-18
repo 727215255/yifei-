@@ -1,0 +1,22 @@
+*{margin:0;padding: 0;}
+body{font-family: '宋体';font-size: 16px;}
+a{text-decoration: none;}
+ul{list-style: none;}
+.fl{float: left;}
+.fr{float: right;}
+.header{width: 100%;height: 100px;background: #5b5136;}
+.w{width: 1200px;margin:0 auto;}
+.logo img{display: block;}
+.banner{width: 100%;background: #8c825f;}
+.banner img{width: 1117px;margin:0 auto;display: block;}
+.two{padding: 20px 0;overflow: hidden;}
+.two img{float: left;margin-right: 30px;}
+.two h1{font-weight: bold;font-size: 36px;letter-spacing: 10px;line-height: 60px;text-indent: 2em;}
+.txt{font-size: 28px;}
+.txt p{padding: 40px;}
+.txt ul{padding-top: 40px;}
+.bg{background: #798371;}
+
+
+
+
